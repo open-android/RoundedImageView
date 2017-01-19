@@ -1,4 +1,4 @@
-# 最火Android开源项目MaterialDialog使用
+# 最火Android开源项目RoundedImageView使用
 ---
 开源地址：[https://github.com/open-android/RoundedImageView](https://github.com/open-android/RoundedImageView "开源项目地址")
 
@@ -48,7 +48,7 @@
 		    app:riv_corner_radius ： 四周角度
 		    app:riv_border_width ：  描边宽度
 		    app:riv_border_color ： 描边颜色
-		    app:riv_oval="false"  ： 是否是原型 ， 若为true， 则上面的radius可不用设置。-->
+		    app:riv_oval="false"  ： 是否是圆型 ， 若为true， 则上面的radius可不用设置。-->
 
 ### 细节
 
